@@ -20,9 +20,7 @@ body {
 .navbar {
   padding: 35px 0px 20px 0px;
 }
-.nav-icon ul li {
-  padding-left: 20px;
-}
+
 ul {
   list-style-type: none;
   padding: 0;
@@ -31,6 +29,12 @@ ul {
 ul li {
   display: inline-block;
   margin-left: 35px;
+}
+.nav-icon ul li {
+  padding-left: 20px;
+}
+.nav-icon ul li :hover {
+  color: #9c9c9c;
 }
 ul li a {
   color: #ffffff;
@@ -46,9 +50,11 @@ ul li a:hover {
   color: #ffffff;
   margin-top: 10%;
 }
+
 .main {
   letter-spacing: 4px;
   font-size: 43px !important;
+  font-family: "roboto", "Koulen", cursive;
 }
 .primary {
   font-family: lato;
@@ -98,4 +104,8 @@ ul li {
 }
 .menu-order ul li:hover {
   color: green;
+}
+
+.typed-cursor {
+  display: none;
 }

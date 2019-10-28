@@ -16,7 +16,6 @@
     font-size: 55px;
   }
 }
-
 @media only screen and (max-width: 768px) {
   .main-text {
     margin-top: 30%;
