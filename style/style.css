@@ -49,6 +49,7 @@ ul li a:hover {
   font-size: 26px;
   color: #ffffff;
   margin-top: 10%;
+  font-family: "Roboto", sans-serif;
 }
 
 .main {
@@ -57,7 +58,7 @@ ul li a:hover {
   font-family: "roboto", "Koulen", cursive;
 }
 .primary {
-  font-family: lato;
+  font-family: "Roboto", sans-serif;
 }
 .screenpost {
   font-size: 30px;
