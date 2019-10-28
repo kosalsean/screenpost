@@ -1,0 +1,58 @@
+@media only screen and (max-width: 1200px) {
+}
+
+/*small tablet to big tablet from 768px to 1023px*/
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (max-width: 767px) {
+}
+
+@media only screen and (max-width: 480px) {
+  .navbar {
+    padding: 18px;
+  }
+  .logo img {
+    width: 40px;
+  }
+  .main {
+    font-size: 32px;
+  }
+  .main-text {
+    text-align: center;
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: 15%;
+    letter-spacing: 2px;
+    padding-bottom: 20px;
+  }
+  .screenpost {
+    font-size: 20px;
+    margin-left: 5px;
+  }
+  .bottom-text {
+    font-size: 16px;
+    bottom: 3%;
+  }
+  .icon {
+    font-size: 25px;
+  }
+}
+@media screen and (device-aspect-ratio: 2/3) {
+}
+
+/* iPhone 5: */
+@media screen and (device-aspect-ratio: 40/71) {
+}
+
+/* iPhone 6: */
+@media screen and (device-aspect-ratio: 375/667) {
+}
+
+/* iPhone 6 Plus: */
+@media screen and (device-aspect-ratio: 16/9) {
+}
+
+/* iPad: */
+@media screen and (device-aspect-ratio: 3/4) {
+}
