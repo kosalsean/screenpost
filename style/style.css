@@ -48,6 +48,7 @@ ul li a:hover {
 }
 .main {
   letter-spacing: 4px;
+  font-size: 43px !important;
 }
 .primary {
   font-family: lato;
